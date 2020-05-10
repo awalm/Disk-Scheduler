@@ -1,0 +1,90 @@
+
+FCFS Algorithm
+Initial head position = 33
+Seek Sequence is:
+5
+98
+32
+66
+67
+53
+35
+50
+36
+86
+89
+13
+80
+58
+51
+88
+19
+52
+95
+63
+70
+46
+24
+82
+91
+Total head movement for FCFS = 842
+
+SCAN Algorithm
+Initial head position = 33
+Seek Sequence is:
+32
+24
+19
+13
+5
+35
+36
+46
+50
+51
+52
+53
+58
+63
+66
+67
+70
+80
+82
+86
+88
+89
+91
+95
+98
+Total head movement for SCAN = 131
+
+C_SCAN Algorithm
+Initial head position = 33
+Seek Sequence is:
+35
+36
+46
+50
+51
+52
+53
+58
+63
+66
+67
+70
+80
+82
+86
+88
+89
+91
+95
+98
+5
+13
+19
+24
+32
+Total head movement for C_SCAN = 197
