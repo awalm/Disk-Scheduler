@@ -1,4 +1,4 @@
-# Disk-Scheduler
+# Disk Scheduler
 Disk Scheduler in C for the FCFS, SCAN, C-SCAN Algorithms.
 
 # Usage
@@ -9,4 +9,4 @@ Compile the project using the command:
 Run the compiled file by using the command
 > ./main
 
-The results will be stored in a file titled "output.txt". 
+The results will be stored in a file titled "output.txt", in the same directory
